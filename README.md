@@ -282,15 +282,3 @@ Possible enhancements:
 
 ---
 
-# License
-
-This project is provided for educational and research purposes.
-
----
-
-# Author
-
-**Mathan Kumar**
-
-Data Engineering Intern  
-AI / Search Systems / Document Intelligence
